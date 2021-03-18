@@ -2,11 +2,17 @@
 
 This kata has no `setup.sh` script. Just read and follow along.
 
-## Downloading and Installing on Windows
+## Downloading and Installing Git on Windows
 
-* Download at [https://git-scm.com/download/win](https://git-scm.com/download/win) (or use [Chocolatey](https://chocolatey.org/))
-* Install using the pre-selected defaults
-* After installation, open Git Bash for following configuration steps
+* For North America resources:
+* From the Stellantis VPN, download the Git install from the EUS site: http://eusportal/esd/Items/Details?PackageId=5233 
+* Add the software to your cart, and checkout to order the install. It will take an hour or so for the install to complete.
+
+
+* For other regions:
+* Download at https://git-scm.com/download/win (or use Chocolatey)
+* Install using the pre-selected defaults (you may need administrative access for the install)
+
 
 ## Git Initial Configuration
 
