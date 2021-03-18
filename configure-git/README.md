@@ -1,6 +1,5 @@
 # Git Kata: Configuring Git
 
-This kata has no `setup.sh` script. Just read and follow along.
 
 ## Downloading and Installing Git on Windows
 
